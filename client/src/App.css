@@ -1,0 +1,32 @@
+.App {
+  text-align: left;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: left;
+  justify-content: left;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+Form .myForm {
+  margin-bottom: 12px;
+}
+.formHeading {
+  margin-bottom: 12px;
+  margin-top:18px;
+  text-align: left;
+}
+.bg {
+  background-color: red;
+}
+.imgbody {
+  margin-top: 50px;
+}
